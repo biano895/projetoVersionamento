@@ -1,0 +1,18 @@
+Introdução
+
+O versionamento surgiu na engenharia de software para registrar e controlar alterações realizadas em documentos e códigos-fonte.
+
+Desenvolvimento
+
+Com o crescimento dos sistemas de software, tornou-se necessário registrar mudanças, facilitar o trabalho em equipe e permitir a recuperação de versões anteriores.
+
+Conclusão
+
+Atualmente, ferramentas como Git são amplamente utilizadas para gerenciamento de versões e colaboração em projetos, o versionamento tornou-se essencial para garantir organização, segurança e histórico das alterações em projetos de software.
+
+
+Os sistemas de controle de versão permitem rastrear alterações.
+
+ introducao
+
+Atualmente, ferramentas como Git são amplamente utilizadas para gerenciamento de versões e colaboração em projetos.
